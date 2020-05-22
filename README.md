@@ -1,2 +1,2 @@
 # Single_cell
-Reconstruction of human terminal erythroid differentiation at single cell level
+These pipelines are built for analyzing single cell data from 10x platform.
